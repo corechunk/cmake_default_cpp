@@ -157,4 +157,11 @@ cmake --build binW_aarch64
 
 ---
 
+## 📚 Further Reading
+
+- [CMake Official Documentation](https://cmake.org/cmake/help/latest/)
+- [Modern CMake Tutorial](https://cliutils.gitlab.io/modern-cmake/)
+
+---
+
 Happy Coding! 🚀
